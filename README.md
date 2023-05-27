@@ -16,3 +16,11 @@ matheus-fontenele-2a40a4175
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gladistonegg&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gladistonegg)
+
