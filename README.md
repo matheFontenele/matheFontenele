@@ -1,5 +1,7 @@
 
-## Olá, sou Matheus Fontenele, desenvolvedor Front End
+## Olá, sou Matheus Fontenele, desenvolvedor Front End em aprendizado
+
+<h3>Buscando evoluir no front e futuramente me tornar Full Stack</h3>
 
 
 
