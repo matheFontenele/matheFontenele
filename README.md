@@ -1,7 +1,7 @@
 
 ## Olá, sou Matheus Fontenele, desenvolvedor Front End em aprendizado
 
-<h3>Estudande te Analise e desenvolvimento de sistemas, focado em Front End e expandindo meus conheceimentos em Back</h3>
+<h3>Estudande te Analise e desenvolvimento de sistemas, focado em front end buscando expandir meus conhecimentos em Web com linguagens novas e frameworks e futuramente me tornar um Full Stack</h3>
 
 
 </br>
