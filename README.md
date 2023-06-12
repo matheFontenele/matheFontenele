@@ -1,7 +1,7 @@
 
 ## Olá, sou Matheus Fontenele, desenvolvedor Front End em aprendizado
 
-<h3>Estudande de Analise e desenvolvimento de sistemas, desenvolvedor junior em aprendizado<br>HTML, CSS, JavaScript, TypeScript e sej aoque Deus quise</h3>
+<h3>Estudande de Analise e desenvolvimento de sistemas, desenvolvedor junior em aprendizado<br>HTML, CSS, JavaScript, TypeScript e seja o que Deus quise</h3>
 
 
 </br>
