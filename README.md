@@ -1,7 +1,8 @@
 
-## Olá, sou Matheus Fontenele, desenvolvedor Front End em aprendizado
+## Hello!
 
-<h3>Estudande de Analise e desenvolvimento de sistemas, desenvolvedor junior em aprendizado<br>HTML, CSS, JavaScript, TypeScript e seja o que Deus quiser</h3>
+<h3>
+I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript, TypeScript</h3>
 
 
 </br>
