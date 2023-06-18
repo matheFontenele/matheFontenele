@@ -2,7 +2,7 @@
 ## Hello!
 
 <h3>
-I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript, TypeScript</h3>
+I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript</h3>
 
 
 </br>
