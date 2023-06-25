@@ -7,7 +7,8 @@ I'm Matheus, Systems Analysis and Development student and Front End developer In
 
 <div style="display: flex;
     justify-content: center;
-    align-items: center;">
+    align-items: center;
+    left: 20%;">
   
 
 
