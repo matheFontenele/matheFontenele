@@ -7,7 +7,7 @@ I'm Matheus, Systems Analysis and Development student and Front End developer In
 
 <div style="display: 'flex'">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFontFontenele&show_icons=true&theme=dracula)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontFontenele&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
