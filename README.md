@@ -5,20 +5,7 @@
 I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript</h3>
 </br>
 
-<div style="display: flex;
-    justify-content: center;
-    align-items: center;
-    left: 20%;">
-  
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontFontenele&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-
-
-
-
 
 
 <div style="display: inline_block"><br>
