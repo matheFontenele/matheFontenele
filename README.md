@@ -5,8 +5,7 @@
 I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript</h3>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontFontenele&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontFontenele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <p align="left"> 
