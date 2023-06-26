@@ -7,6 +7,12 @@ I'm Matheus, Systems Analysis and Development student and Front End developer In
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFontFontenele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFontFontenele&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusFontFontenele&theme=javascript-dark)](https://git.io/streak-stats)
+
+![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
+
 <div style="display: inline_block"><br>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
