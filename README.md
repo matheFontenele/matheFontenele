@@ -6,9 +6,6 @@ I'm Matheus, Systems Analysis and Development student and Front End developer In
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheFontenele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=matheFontenele&theme=javascript-dark)](https://git.io/streak-stats)
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
