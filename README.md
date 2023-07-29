@@ -2,7 +2,7 @@
 ## Hello!
 
 <h3>
-I'm Matheus, Systems Analysis and Development student and Front End developer In learning<br>HTML, CSS, JavaScript</h3>
+Opá, sou Matheus Fontenele, desenvolvedor Front End Junior apaixonado por desenvolvimento Web, me especializando em Front End e me aventurando um pouco no mundo do Back End :computer: :coffee:</h3>
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheFontenele&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
