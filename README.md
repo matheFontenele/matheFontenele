@@ -33,9 +33,11 @@ Always curious and open to new areas, seeking to expand my knowledge.
 
 #### **Connect with me:**
 
-[![GitHub](https://img.shields.io/badge/matheFontenele-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/matheFontenele)
+[![GitHub](https://img.shields.io/badge/matheFontenele-000?style=for-the-badge&logo=github&logoColor=6D62624D)](https://github.com/matheFontenele)
 
 [![LinkedIn](https://img.shields.io/badge/Matheus_Fontenele-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-fontenele-2a40a4175/)
+
+[![Gmail](https://img.shields.io/badge/Matheus_Fontenele-000?style=for-the-badge&logo=gmail&logoColor=DE0D0DCC)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusfontenele979700@gmail.com)
 
   
   ##
