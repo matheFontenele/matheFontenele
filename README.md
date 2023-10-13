@@ -3,6 +3,11 @@
 
 ## **About me:**
 
+Born in Ceará, Systems Analysis and Development student passionate about Web programming. FrontEnd Developer with knowledge in HTML5, CSS3 and JavaScript and React.
+Expanding my knowledge with C#, .Net and I intend to enter the data science area, with Python.
+
+Always curious and open to new areas, seeking to expand my knowledge.
+
 
 
 ### **I know about:**
