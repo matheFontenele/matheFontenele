@@ -10,7 +10,7 @@ Always curious and open to new areas, seeking to expand my knowledge.
 
 
 
-### **I know about:**
+### **My Skills:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
