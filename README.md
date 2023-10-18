@@ -3,11 +3,15 @@
 
 ## **About me:**
 
-Born in Ceará, Systems Analysis and Development student passionate about Web programming. FrontEnd Developer with knowledge in HTML5, CSS3 and JavaScript and React.
-Expanding my knowledge with C#, .Net and I intend to enter the data science area, with Python.
+A native of Ceará, a Systems Analysis and Development student, I had my first contact with the technology area in high school where I discovered and became interested in Web development, working with HTML, CSS and JavaScript.
 
-Always curious and open to new areas, seeking to expand my knowledge.
+I decided to continue in the Front End area, expanding my knowledge [React, TypeScript] and out of curiosity I wanted to venture a little into Data Science and I ended up identifying a lot with the area.
 
+Today I seek to expand my knowledge with Python and its libraries, aiming to work with Data Science and Machine Learning in a Big Data context.
+
+Dedicating myself more every day, as I deepen my knowledge and my curiosity only increases.
+
+Today, I am fully convinced of my place in the world of technology and have focused my studies on Data Science.
 
 
 ### **My Skills:**
