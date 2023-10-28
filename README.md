@@ -30,12 +30,6 @@ Today, I am fully convinced of my place in the world of technology and have focu
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheFontenele&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-### **Card - Most Used Languages**
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheFontenele&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
 #### **Connect with me:**
 
 [![GitHub](https://img.shields.io/badge/matheFontenele-000?style=for-the-badge&logo=github&logoColor=6D62624D)](https://github.com/matheFontenele)
