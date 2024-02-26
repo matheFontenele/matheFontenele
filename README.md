@@ -1,44 +1,21 @@
+# 👋 **Hi there! I'm Matheus Fontenele** 🧛🏻‍♀️
+>### ✨ Data Science student 🎓
 
-# **Hi there! I'm Matheus Fontenele** :)
-
-
-### **My Skills:**
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Math-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Math-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Math-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Math-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-
-### **Card - Most Used Languages**
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheFontenele&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### **Card - Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheFontenele&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-#### **Connect with me:**
-
-[![GitHub](https://img.shields.io/badge/matheFontenele-000?style=for-the-badge&logo=github&logoColor=6D62624D)](https://github.com/matheFontenele)
-
-[![LinkedIn](https://img.shields.io/badge/Matheus_Fontenele-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-fontenele-2a40a4175/)
-
-[![Gmail](https://img.shields.io/badge/Matheus_Fontenele-000?style=for-the-badge&logo=gmail&logoColor=DE0D0DCC)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusfontenele979700@gmail.com)
-
   
   ##
  
-
-![image load fail. please open proxy retry](https://github.com/fz6m/commit-snake/blob/snk/snk.svg)
-
-
-
-
-
-
+<div> 
+  <a href="https://www.instagram.com/math.fontenele/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusfontenele979700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-fontenele-2a40a4175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
