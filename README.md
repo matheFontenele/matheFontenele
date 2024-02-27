@@ -1,5 +1,5 @@
 # 👋 **Hi there! I'm Matheus Fontenele** 🧛🏻‍♀️
->### ✨ Data Science student 🎓
+>### ✨ Full Stack Developer 🎓
 
 ##
 
