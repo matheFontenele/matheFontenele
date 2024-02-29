@@ -1,4 +1,4 @@
-# 👋 **Hi there! I'm Matheus Fontenele** 🧛🏻‍♀️
+# 👋 **Hi there! I'm Matheus Fontenele** :monkey_face:
 >### ✨ Full Stack Developer 🎓
 
 ##
