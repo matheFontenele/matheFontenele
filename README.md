@@ -1,32 +1,45 @@
-# 👋 **Hi there! I'm Matheus Fontenele** :monkey_face:
->### ✨ Java student 🎓
+<h1 align="center">Olá, eu sou o Matheus Fontenele!</h1>
 
-##
+<p align="center">
+  <i>Desenvolvedor Java em formação | Apaixonado por tecnologia e por café</i>
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Math-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Math-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  
-  ##
- 
-<div> 
-  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matheusfontenele979700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a [href="https://www.linkedin.com/in/matheus-fontenele-2a40a4175/](https://www.linkedin.com/in/matheus-fontenele-28843734b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+### Sobre mim
+
+Sou um desenvolvedor em transição de carreira, buscando minha primeira oportunidade no mercado de TI.  
+Atualmente estudo **Java, Spring Boot e SQL**.  
+Estou sempre praticando com projetos pessoais e aprendendo algo novo todos os dias.
+
+---
+
+### Tecnologias que estou aprendendo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheFontenele&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheFontenele&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfontenele/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfontenele979700@gmail.com)
+
+---
+  
+  ##
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
