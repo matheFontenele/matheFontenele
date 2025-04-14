@@ -1,23 +1,22 @@
 <h1 align="center">Olá, eu sou o Matheus Fontenele!</h1>
 
 <p align="center">
-  <i>Desenvolvedor Java em formação | Apaixonado por tecnologia e por café</i>
+  <i>Estudante de Ciência de Dados e entusiasta de Machine Learning. | Apaixonado por tecnologia e por café</i>
 </p>
 
 ---
 
 ### Sobre mim
 
-Sou um desenvolvedor em transição de carreira, buscando minha primeira oportunidade no mercado de TI.  
-Atualmente estudo **Java, Spring Boot e SQL**.  
-Estou sempre praticando com projetos pessoais e aprendendo algo novo todos os dias.
+🎯 Em transição para a área de Ciência de Dados, com foco em análise, visualização e modelagem de dados. Tenho estudado Python (Pandas, NumPy, Scikit-learn), SQL e Power BI, desenvolvendo projetos práticos para resolver problemas reais..
 
 ---
 
 ### Tecnologias que estou aprendendo
 
+![Python](https://img.shields.io/badge/Python-f4c430?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
