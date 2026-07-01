@@ -102,14 +102,12 @@ Transformando dados em soluções inteligentes através de automação, engenhar
 
 # 🤝 Vamos nos conectar
 
-<p align="space-around">
-
-<a href="[https://www.linkedin.com/in/matheusfontenele](https://www.linkedin.com/in/matheus-fontenele-29425636a/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:matheusfontenele979700@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-fontenele-29425636a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:matheusfontenele979700@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
