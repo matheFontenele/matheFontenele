@@ -104,7 +104,7 @@ Transformando dados em soluções inteligentes através de automação, engenhar
 
 <p align="space-around">
 
-<a href="https://www.linkedin.com/in/matheusfontenele">
+<a href="[https://www.linkedin.com/in/matheusfontenele](https://www.linkedin.com/in/matheus-fontenele-29425636a/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
